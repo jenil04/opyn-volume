@@ -1,0 +1,20 @@
+{
+  "name": "opyn-volume",
+  "version": "1.0.0",
+  "description": "Calculate the total volume of buy and sell of oTokens on Opyn.",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenil04/opyn-volume.git"
+  },
+  "author": "Jenil Thakker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenil04/opyn-volume/issues"
+  },
+  "homepage": "https://github.com/jenil04/opyn-volume#readme"
+}
